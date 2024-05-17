@@ -36,7 +36,7 @@ Experienced mobile application developer with a passion for crafting seamless us
 - Cloud Backend Setup
 - Third-Party API Integration
 - Real-Time Database Solutions
-- Cloud Services Integration (AWS, Google Cloud, Azure)
+- Cloud Services Integration ([AWS](https://aws.amazon.com), [Google Cloud](https://cloud.google.com), [Azure](https://azure.microsoft.com))
 
 ### IoT and Wearable App Development 🌐
 - Smart Home and Health Monitoring Apps
@@ -58,10 +58,10 @@ Experienced mobile application developer with a passion for crafting seamless us
 - Performance Optimization
 
 ## Connect With Me 🌐
-- **Website:** [jayeshsinh.com](https://jayeshsinh.com)
-- **LinkedIn:** [linkedin.com/in/chauhanjayesh](https://www.linkedin.com/in/chauhanjayesh/)
+- **Website:** [jayeshsinh.com](https://jayeshsinh.com){:target="_blank"}
+- **LinkedIn:** [linkedin.com/in/chauhanjayesh](https://www.linkedin.com/in/chauhanjayesh/){:target="_blank"}
 - **Skype:** live:jayesh4633
-- **UpWork:** [upwork.com/freelancers/~011f90f853e34b6a3e](https://www.upwork.com/freelancers/~011f90f853e34b6a3e)
+- **UpWork:** [upwork.com/freelancers/~011f90f853e34b6a3e](https://www.upwork.com/freelancers/~011f90f853e34b6a3e){:target="_blank"}
 - **Email:** mail@jayeshsinh.com
 - **Phone:** +91 8306052876
 
