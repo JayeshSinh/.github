@@ -57,15 +57,13 @@ Experienced mobile application developer with a passion for crafting seamless us
 - App Redesign and Feature Upgrades
 - Performance Optimization
 
-## Open to Work 🚀
-Currently seeking new opportunities in the tech industry. Open to remote work opportunities.
-
 ## Connect With Me 🌐
 - **Website:** [jayeshsinh.com](https://jayeshsinh.com)
-- **Contact:** +91 8306052876, mail@jayeshsinh.com
 - **LinkedIn:** [linkedin.com/in/chauhanjayesh](https://www.linkedin.com/in/chauhanjayesh/)
 - **Skype:** live:jayesh4633
 - **UpWork:** [upwork.com/freelancers/~011f90f853e34b6a3e](https://www.upwork.com/freelancers/~011f90f853e34b6a3e)
+- **Email:** mail@jayeshsinh.com
+- **Phone:** +91 8306052876
 
 ## Thank You! 🙏
 Thank you for visiting my GitHub profile. Looking forward to potential collaborations and exciting projects ahead.
