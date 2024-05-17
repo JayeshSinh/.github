@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Jayesh Chauhan's GitHub Profile</title>
 </head>
 <body>
   <h1>Welcome to Jayesh Chauhan's GitHub Profile! 👋</h1>
@@ -85,17 +84,9 @@
   <ul>
     <li><a href="https://jayeshsinh.com" target="_blank">Website</a></li>
     <li><a href="https://www.linkedin.com/in/chauhanjayesh/" target="_blank">LinkedIn</a></li>
-    <li>Skype: live:jayesh4633</li>
+    <li><a href="https://join.skype.com/invite/Uhvv7wcMeMyo" target="_blank">Skype</a></li>
     <li><a href="https://www.upwork.com/freelancers/~011f90f853e34b6a3e" target="_blank">UpWork</a></li>
-    <li>Email: mail@jayeshsinh.com</li>
-    <li>Phone: +91 8306052876</li>
-  </ul>
-
-  <h2>Projects 🚀</h2>
-  <ul>
-    <li><a href="project-link" target="_blank">Project 1</a></li>
-    <li><a href="project-link" target="_blank">Project 2</a></li>
-    <!-- Add other projects similarly -->
+    <li><a href="mailto:mail@jayeshsinh.com">Email: mail@jayeshsinh.com</a></li>
   </ul>
 
   <h2>Thank You! 🙏</h2>
