@@ -8,7 +8,7 @@
   <h1>Welcome to Jayesh Chauhan's GitHub Profile! 👋</h1>
 
   <h2>About Me ℹ️</h2>
-  <p>Experienced mobile application developer with a passion for crafting seamless user experiences. Specializing in Android, Flutter, and iOS development, with over 7 years of industry experience. Skilled in building robust mobile applications with comprehensive backend support.</p>
+  <p>Experienced mobile application developer with a passion for crafting seamless user experiences. Specializing in Android, Flutter, and iOS development, with over 7+ years of industry experience. Skilled in building robust mobile applications with comprehensive backend support.</p>
 
   <h2>Services Offered 💼</h2>
   <h3>Custom Mobile App Development 📱</h3>
